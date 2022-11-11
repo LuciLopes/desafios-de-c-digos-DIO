@@ -1,2 +1,2 @@
-# desafios-de-c-digos-DIO
+# desafios-de-códigos-DIO
 bootcamp techorange
